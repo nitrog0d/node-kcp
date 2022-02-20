@@ -1,5 +1,5 @@
 {
-  "name": "node-kcp",
+  "name": "nitro-node-kcp",
   "version": "1.0.12",
   "description": "KCP protocol for Node.js",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leenjewel/node-kcp.git"
+    "url": "git+https://github.com/nitrog0d/node-kcp.git"
   },
   "keywords": [
     "kcp",
@@ -31,7 +31,7 @@
   "license": "Apache-2.0",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/leenjewel/node-kcp/issues"
+    "url": "https://github.com/nitrog0d/node-kcp/issues"
   },
-  "homepage": "https://github.com/leenjewel/node-kcp#readme"
+  "homepage": "https://github.com/nitrog0d/node-kcp#readme"
 }
