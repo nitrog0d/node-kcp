@@ -2,16 +2,16 @@
   "name": "node-kcp",
   "version": "1.0.12",
   "description": "KCP protocol for Node.js",
-  "main": "node-kcp.node",
+  "main": "index.js",
   "dependencies": {
-    "nan": "^2.14.0"
+    "nan": "2.15.0"
   },
   "devDependencies": {
-    "chai": "latest",
-    "grunt": "^1.0.4",
-    "grunt-contrib-clean": "latest",
-    "grunt-mocha-test": "latest",
-    "mocha": "^7.0.0"
+    "chai": "4.3.6",
+    "grunt": "1.4.1",
+    "grunt-contrib-clean": "2.0.0",
+    "grunt-mocha-test": "0.13.3",
+    "mocha": "9.2.1"
   },
   "scripts": {
     "test": "grunt",
